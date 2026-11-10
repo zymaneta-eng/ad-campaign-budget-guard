@@ -168,7 +168,7 @@ ruff check .
 
 ![дашборд: перший екран](screenshots/02_dash1_overview.png)
 
-![після дії (запуск / форма)](screenshots/02_dash1_action.png)
+![після дії: результат на екрані](screenshots/02_dash1_action.png)
 
 ![підсумок тестів](screenshots/01_tests.png)
 
